@@ -21,5 +21,15 @@
 2. cd my-next 
 3. >> npm run build 
 4. >> git add . 
+5. >> git commit -m "first commit"
+6. >> git remote add origin https://github.com/kyfuvs/yik-shadcn-ui.git
+7. >> git push -u origin master
+==================
+** After modify 
+1. New Terminal 
+2. cd my-next 
+3. >> npm run build 
+4. >> git add .
+
 
 

@@ -7,7 +7,7 @@ import { yikData } from '../../../data';
 export default function Yiks() {
   const yiks: YikData[] = yikData;
   return (
-    <div className='grid grid-cols-9 '>
+    <div className='grid grid-cols-9  '>
       {yiks.map((data, i) => (
         <YikList key={i} data={data} />
       ))}
