@@ -1,0 +1,25 @@
+1. new repo -> yik-shadcn-ui 
+2. Option 1:
+   ---------------------
+   echo "# yik-shadcn-ui" >> README.md
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/kyfuvs/yik-shadcn-ui.git
+    git push -u origin main
+    --------------------
+    Or Option 2:
+    --------
+    git remote add origin https://github.com/kyfuvs/yik-shadcn-ui.git
+    git branch -M main
+    git push -u origin main
+    --------
+==================
+** Push 
+1. New Terminal 
+2. cd my-next 
+3. >> npm run build 
+4. >> git add . 
+
+
