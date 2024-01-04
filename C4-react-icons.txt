@@ -1,0 +1,7 @@
+** install react-icons
+https://react-icons.github.io/react-icons/
+
+1. New Terminal
+2. cd my-next 
+3. >> npm install react-icons --save
+   ==> "react-icons": "^4.12.0",

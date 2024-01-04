@@ -1,0 +1,14 @@
+Automatic Deployment:
+If you want to set up automatic deployments on each push 
+to your GitHub repository, you need to check your 
+Vercel project settings:
+
+1. Go to your Vercel dashboard.
+2. Find your project.
+3. Navigate to the project settings.
+Look for the "Deployments" or "Git" section.
+Ensure that automatic deployments are configured.
+If automatic deployments are already configured, 
+any new push to the specified branch 
+(in your case, the master branch) 
+should trigger a new deployment.

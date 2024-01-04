@@ -30,6 +30,8 @@
 2. cd my-next 
 3. >> npm run build 
 4. >> git add .
+5. >> git commit -m "second commit"
+6. >> git push -u origin master
 
 
 
